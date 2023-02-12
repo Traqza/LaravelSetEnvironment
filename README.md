@@ -3,7 +3,7 @@ A simple command to set environment variables via command line. I wrote this to 
 
 Composer command
 ```composer
-composer require levizoesch/laravelsetenvironment
+composer require Traqza/LaravelSetEnvironment
 ```
 
 ```artisan
