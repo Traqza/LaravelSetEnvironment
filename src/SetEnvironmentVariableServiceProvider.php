@@ -2,7 +2,7 @@
 namespace Traqza\LaravelSetEnvironment;
 
 use Illuminate\Support\ServiceProvider;
-use levizoesch\laravelsetenvironment\SetEnvironmentVariable;
+use Traqza\LaravelSetEnvironment\SetEnvironmentVariable;
 
 class SetEnvironmentVariableServiceProvider extends ServiceProvider
 {
