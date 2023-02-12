@@ -1,5 +1,5 @@
 {
-    "name": "Traqza\LaravelSetEnvironment",
+    "name": "Traqza\\LaravelSetEnvironment",
     "type": "project",
     "description": "A simple command to set environment variables via command line. I wrote this to assist in pipeline builds.",
     "keywords": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4" : {
-            "Traqza\\LaravelSetEnvironment\\": "src/"
+            "traqza\\laravelsetenvironment\\": "src/"
         }
     },
     "extra": {
