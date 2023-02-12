@@ -1,5 +1,5 @@
 <?php
-namespace levizoesch\laravelsetenvironment;
+namespace Traqza\LaravelSetEnvironment;
 
 use Illuminate\Support\ServiceProvider;
 use levizoesch\laravelsetenvironment\SetEnvironmentVariable;
