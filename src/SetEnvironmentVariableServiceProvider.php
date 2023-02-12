@@ -6,7 +6,6 @@ use Traqza\LaravelSetEnvironment\SetEnvironmentVariable;
 
 class SetEnvironmentVariableServiceProvider extends ServiceProvider
 {
-
     public function boot()
     {
         $this->commands([
